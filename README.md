@@ -1,0 +1,1 @@
+An example of old style firefox plugin.
