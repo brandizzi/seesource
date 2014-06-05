@@ -1,0 +1,5 @@
+content   seesource                content/
+skin      seesource  classic/1.0   skin/
+locale    seesource  en-US         locale/en-US/
+
+overlay chrome://browser/content/browser.xul  chrome://seesource/content/browserOverlay.xul
