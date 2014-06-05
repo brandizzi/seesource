@@ -1,5 +1,5 @@
 var seesource = {
   run : function(aEvent) {
-    alert(document.documentElement.outerHTML);
+    alert(content.document.documentElement.outerHTML);
   }
 };
